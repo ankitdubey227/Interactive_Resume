@@ -1,0 +1,25 @@
+*Internships in 21CC Education, Delhi: January2013 to June2013
+Role: Intern
+Responsibilities for six months internship are as follows:
+-Built a mobile app for 21CC Education which would be supporting the web portal as well as the 
+outreach program for prospective students
+-Conducted market research on demand for online learning by large Indian corporates 
+-Created a customer database for 21CC's customer outreach across India
+-Created e-learning modules using existing content focused on the transportation and logistics sector
+-Maintained and made needed changes in 21CC education website which will help in its 
+commercialization and add e-commerce facility for transaction on the website 
+-Handled social media marketing for 21CC Education. 
+-Technical skills: J2ME, MySQL, SDLC, CRM and Market research
+
+*Internships in Centre for Research in Cognitive Systems, NIIT Limited, Delhi: June 2012 to July 2012
+Role: Summer Intern
+-Created a cost efficient mobile app which helps unprivileged children in villages to communicate with
+their mentors remotely using MMS concept.
+-Developed a Bluetooth-based Messaging App for Low-end Phones 
+-Technical skills: J2ME, hands on experience on Nokia, Blackberry and Samsung phones.
+
+*NIIT Technologies, Delhi: June 2011 to July 2011
+Role: Summer Intern
+-Developed User Interface in a Project which helped digitize questionnaires for online examinations 
+conducted by Wiley Publications India
+-Technical skills: HTML on Dreamweaver, JavaScript on Netbean platform
